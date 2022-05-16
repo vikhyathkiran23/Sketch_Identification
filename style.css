@@ -1,0 +1,20 @@
+body {
+    background-color: lightyellow;
+}
+
+#Score{
+    font-size: large;
+    float: left;
+    margin-left: 10px;
+}
+
+#Timer{
+    font-size: large;
+    float: right;
+    margin-right: 10px;
+}
+
+#Required_Sketch{
+    color: red;
+    font-family:cursive;
+}
